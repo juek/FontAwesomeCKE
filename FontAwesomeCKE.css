@@ -1,0 +1,48 @@
+#fontawesome {
+overflow:auto; 
+text-align:center; 
+height:400px; 
+width:100%;
+margin:-2px;
+}
+
+#fontawesome > a {
+display:block; 
+float:left; 
+margin:2px;
+padding:.5em;
+width:80px; 
+overflow:hidden;
+border-radius:5px; 
+background:rgba(0,0,0,0.075);
+white-space:normal; 
+text-align:center; 
+height:68px;
+}
+
+#fontawesome > a:hover {
+background:rgba(255,255,255,0.25);
+} 
+#fontawesome > a.active {
+background:#fff;
+}
+
+#fontawesome > a > span.fa {
+font-family:'FontAwesome'!important;
+font-size:24px; 
+color:#000;
+margin-bottom:0.5em;
+}
+
+#fontawesome > a > div {
+line-height:1;
+height:2.5em;
+overflow:hidden;
+text-align:center;
+white-space:normal;
+}
+
+.fontawesomeSearch {
+background:transparent!important;
+border:none!important;
+}
