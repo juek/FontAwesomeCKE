@@ -5,7 +5,7 @@ Adds full support for Typesetter&rsquo;s bundled <a href="https://fontawesome.co
 
 * FontAwesomeCKE is a successor of the older [FontAwesome](https://www.typesettercms.com/Plugins/274_FontAwesome) plugin which only supported FontAwesome up to ver 4.3
 * This version does not include the FontAwesome fonts and css but uses Typesetter&rsquo;s bundled version. Therefore Typesetter CMS ver. 5+ is required, ver. 5.1+ is recommended
-* After installation, a new ![Icon](/CKEditor_plugins/fontawesome-1.3/icons/fontawesome.png?raw=true) icon will appear in CKEditor&rsquo;s toolbars which invokes the plugin dialog and allows to add &lsquo;FontAwesome&rsquo; icons to editable text content
+* After installation, a new ![Icon](/CKEditor_plugins/fontawesome-1.3/icons/fontawesome.png?raw=true) button will appear in CKEditor&rsquo;s toolbars which invokes the plugin dialog to choose from  675 FontAwesome icons
 
 See also [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
 
